@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="anime.news" title="anime.news" src=".github/preview.png" />
+    <img alt="dalle" title="dalle" src=".github/preview.png" />
 </h1>
 
 <br>
@@ -19,6 +19,7 @@ This project was developed using the following technologies:
 - [Cloudinary](https://cloudinary.com/)
 - [OpenAI](https://openai.com/api/)
 - [MongoDB](https://www.mongodb.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## 📝 License
 
