@@ -18,10 +18,10 @@
 ## Getting Started
 
 - Clone this repository to your local machine
-- Install required packages by running **npm install**
+- Install required packages by running <code>npm install</code>
 - Get an API key from OpenAI
 - Store your API key as an environment variable named **OPENAI_API_KEY**
-- Run the application by executing **npm start**
+- Run the application by executing <code>npm start</code>
 
 ## Contributing
 
